@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**piaasbjornsen/piaasbjornsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h2> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+  </h2>
+</div>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/piaasbjornsen/">
+  <img align="left" alt="Pia's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<br/>
+
+My name is Pia! 
+
+- Looking for projects to collaborate! 
+- Ask me anything, I'm happy to help!
+
+<!--## **Languages and tools that I use**
+
+<div>
+</div>-->
+<br>
+<div style="width: 100%; display: flex">
+  <a>
+    <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=piaasbjornsen&show_icons=true&theme=dark" />
+  </a>
+  <a>
+ <!--  <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piaasbjornsen&show_icons=true&theme=dark&layout=compact"/>--> 
+  </a>
+</div>
