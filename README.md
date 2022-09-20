@@ -14,9 +14,6 @@
 
 My name is Pia! 
 
-- Looking for projects to collaborate! 
-- Ask me anything, I'm happy to help!
-
 <!--## **Languages and tools that I use**
 
 <div>
